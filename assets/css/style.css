@@ -1,5 +1,5 @@
 :root {
-    --gradient: linear-gradient(to right, #0D6EFD, #6610f2)
+    --gradient: linear-gradient(to right, #0D6EFD, #6610f2);
 }
 
 .background-gradient {
