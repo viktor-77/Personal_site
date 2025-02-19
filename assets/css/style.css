@@ -1,7 +1,43 @@
-:root {
-    --gradient: linear-gradient(to right, #0D6EFD, #6610f2);
+.home-container {
+    max-width: 95%;
 }
 
-.background-gradient {
-    background: var(--gradient);
+.personal-img {
+    width: 90%;
+    display: block;
+    margin: 0 auto 30px;
+    border: 5px solid #111;
+    border-radius: 100%;
+    background-color: #111;
+}
+
+@media (min-width: 450px) {
+    .personal-img {
+        width: 80%;
+    }
+}
+
+@media (min-width: 600px) {
+    .personal-img {
+        width: 65%;
+    }
+}
+
+@media (min-width: 768px) {
+    .personal-img {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .personal-img {
+        width: 95%;
+    }
+}
+
+@media (min-width: 1100px) {
+    .personal-img {
+        width: 80%;
+    }
 }
