@@ -13,6 +13,8 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
 - **Projects** – Showcases completed projects with GitHub links.
 - **Contact** – Contact information including email, GitHub, and LinkedIn profiles.
 
+![Screenshot](https://github.com/user-attachments/assets/13002e93-9a85-4748-bfec-a150a015b55a)
+
 ## Technologies
 
 - **HTML5**
