@@ -1,6 +1,6 @@
 # Viktor Umanskyi Website
 
-https://viktor-77.github.io/Blog/
+[https://viktor-77.github.io/Blog/](https://viktor-77.github.io/Personal_site/)
 
 This project is a personal website that showcases information about Viktor Umanskyi, including education, work experience, skills, projects, and contact details.
 
