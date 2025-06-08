@@ -26,5 +26,5 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/viktor-77/Blog.git
+   git clone https://github.com/viktor-77/Personal_site.git
    cd Blog
