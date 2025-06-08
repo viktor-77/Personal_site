@@ -15,12 +15,6 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
 
 ![Screenshot](https://github.com/user-attachments/assets/13002e93-9a85-4748-bfec-a150a015b55a)
 
-## Technologies
-
-- **HTML5**
-- **CSS3** (Bootstrap 5)
-- **JavaScript** (Bootstrap Bundle)
-
 ## Installation and Setup
 
 1. **Clone the Repository:**
@@ -28,3 +22,9 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
    ```bash
    git clone https://github.com/viktor-77/Personal_site.git
    cd Blog
+
+## Technologies
+
+- **HTML5**
+- **CSS3** (Bootstrap 5)
+- **JavaScript** (Bootstrap Bundle)
