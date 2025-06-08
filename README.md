@@ -1,7 +1,5 @@
 # Viktor Umanskyi Website
 
-https://viktor-77.github.io/Personal_site/
-
 This project is a personal website that showcases information about Viktor Umanskyi, including education, work experience, skills, projects, and contact details.
 
 ## Description
@@ -22,6 +20,10 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
    ```bash
    git clone https://github.com/viktor-77/Personal_site.git
    cd Blog
+
+##  Demo
+
+https://viktor-77.github.io/Personal_site/
 
 ## Technologies
 
