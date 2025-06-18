@@ -19,7 +19,7 @@ The website is built with HTML5, CSS (Bootstrap 5), and JavaScript. It features 
 
    ```bash
    git clone https://github.com/viktor-77/Personal_site.git
-   cd Blog
+   cd Personal_site
 
 ##  Demo
 
