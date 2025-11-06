@@ -361,6 +361,35 @@
         </div>
     </footer>
 
+        <div>
+        <h3>GSI clean test</h3>
+        <div id="buttonDiv"></div>
+        <pre id="log"></pre>
+
+        <script>
+            function handleCredentialResponse(response) {
+                // Ця функція виведе отриманий ID токен
+                document.getElementById("log").textContent =
+                    "ID TOKEN:\n" + response.credential;
+            }
+
+            window.onload = function () {
+                // Ініціалізація GSI
+                google.accounts.id.initialize({
+                    // ВСТАВТЕ ВАШ НОВИЙ, ПРАВИЛЬНИЙ CLIENT ID
+                    client_id: "926365130491-g1jnaseq0kq093oqktut7nsjnamtcll6l8.apps.googleusercontent.com",
+                    callback: handleCredentialResponse
+                });
+
+                // Рендер кнопки
+                google.accounts.id.renderButton(
+                    document.getElementById("buttonDiv"),
+                    { theme: "outline", size: "large" } // конфігурація кнопки
+                );
+            };
+        </script>
+    </div>
+
     <!-- Scroll Top -->
     <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center active">
         <i class="bi bi-arrow-up-short text-white"></i>
